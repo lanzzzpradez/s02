@@ -1,0 +1,39 @@
+{
+	"id": "user1",
+	"username": "Kiwi",
+	"firstname": "Rona Joyce",
+	"lastname": "Pradez",
+	"email": "kiwimayumi@hotmail.com",
+	"password": "tenten21",
+	"mobileNumber": "09292384472",
+	"isAdmin": "false",
+	"enrollments": [
+		{
+
+			"id": "enrollment1-user1",
+			"courseId": "course1",			
+			"dateEnrolled": "01/15/2022",
+			"isPaid": "true"
+		}
+	]
+},
+
+user {
+	"id": "user2",
+	"username": "Spiderlance",
+	"firstname": "Lance",
+	"lastname": "Pradez",
+	"email": "lancepradez@gmail.com",
+	"password": "lancep2022",
+	"mobileNumber": "09286673648",
+	"isAdmin": "false",
+	"enrollments": [
+		{
+
+			"id": "enrollment1-user2",
+			"courseId": "course2",			
+			"dateEnrolled": "01/17/2022",
+			"isPaid": "true"
+		}
+	]
+}
